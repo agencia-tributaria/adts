@@ -1,1 +1,1 @@
-com.softalks.adts::persona::1.0
+com.softalks.adts::personas::1.0
